@@ -17,7 +17,7 @@ then cofnigure `APP_URL`, `BOT_TOKEN`, `GITGRAM_SUPPORT`, `GIT_REPO_URL`, and `P
 ## Deploy on Heroku:
 If you want to deploy this app on Heroku, there's a one-click setup for that. Click below, fill up the form and hit **Deploy App**.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pokurt/GitGram)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
 ### Prefer to use Auto-Deploy?
 Bruh, want to be like [the Pins team](https://t.me/ThePinsTeam_GitGramBot)'s instance or can't install `heroku` CLI?
